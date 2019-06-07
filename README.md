@@ -1,8 +1,13 @@
 # {DELANI STUDIO PROJECT}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+
+#### {Implementation of jquery and Bootstrap in Delani Studio Project }, {7th June 2019}
+
+#### By **{Juliet Wambua}**
+
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This Application is to implement Bootstrap and jquery functions to recreate a landing page for Delani Studio.
+Bootsrap is used to style the page while jquery is used to make it more interactive.}
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
