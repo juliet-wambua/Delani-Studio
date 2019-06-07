@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+}
+.heading{
+  background-image: url("../images/backgrounds/h_img.jpg");
+  height: 500px;
+  width:  100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+.welcome{
+  font-family: 'Merriweather', serif;
+  font-size: 1.4em;
+}
+.services{
+  background-image: url("../images/backgrounds/s_image.jpg");
+  height: 300px;
+  width: 100%;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+}
+.about-us{
+  font-family: 'Roboto', sans-serif;
+}
+.contacts{
+  background-image: url("../images/backgrounds/c_image.jpg");
+  height: 400px;
+  width:100%;
+}
+.social_icons{
+  padding: 20px;
+}
+.by{
+  font-family: 'Teko', sans-serif;
+}
+.footer{
+  font-family: 'Lobster', cursive;
+  padding: 60px;
+}

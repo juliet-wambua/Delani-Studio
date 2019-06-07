@@ -10,7 +10,7 @@ Bootsrap is used to style the page while jquery is used to make it more interact
 
 ## Setup/Installation Requirements
 * git clone 
-* to list setup instructions
+*
 * in a simple
 * easy-to-understand
 * format
