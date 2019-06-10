@@ -5,7 +5,8 @@
     <title>Delani Studio</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Lobster|Merriweather|Oswald|Roboto|Teko&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Merriweather|Oswald|Roboto|Anton|Megri|Teko&display=swap" rel="stylesheet">
+
   </head>
   <body>
     <div class="container">
@@ -44,30 +45,36 @@
           <h1>WHAT WE DO</h1>
           <div class="row">
             <div class="col-4">
-              <div class="design">
+               <div id="hide1">
                 <img src="images/services_icons/design_icon.png" alt="Design Icon"> <br>
-                DESIGN
+               <strong>DESIGN</strong>
+               </div>
+               <div id="design">
                 <p> Our design practise offers a full range of services including brand strategy, interaction, visual design and user experience through testing</p>.
                 <p>Throughout your project, our designers create and implement visual design and work flows, solicit user feedback and work with you to make sure what gets built is what is needed.</p>
+               </div>
               </div>
-            </div>
-            <div class="col-4">
-              <div class="development">
+           <div class="col-4">
+              <div id="hide2">
                 <img src="images/services_icons/dev_icon.png" alt="Dev Icon"> <br>
-                DEVELOPMENT
+                 <strong>DEVELOPMENT</strong>
+              </div>
+              <div id="development">
                 <p>All engineers are fluent in the latest enterprise, mobile and web developement technologies.</p>
                 <p>Thet collaborate with your team to write adn improve on a daily basis, using proven practises such as test-driven development and pair-programming.</p>
               </div>
-            </div>
-            <div class="col-4">
-              <div class="product-management">
+           </div>
+           <div class="col-4">
+              <div id="hide3">
                  <img src="images/services_icons/product_icon.png" alt="products Icon"> <br>
-                PROCUCT MANAGEMENT
+                 <strong>PROCUCT MANAGEMENT</strong>
+              </div>
+              <div id="product">
                 <p>Planning and Development is interactive, because we are constantly coding and testing, the products we build are always ready to go live.</p>
                 <p>This interactive process allows for changes as business requiremnts evolve.</p>
                </div>
-            </div>
           </div>
+        </div>
        </div>
 
      <div class="portfolio">
@@ -106,11 +113,29 @@
       </div>
 
 
-    <div class="contacts">
+    <div class="contactus">
       <h1>CONTACT US</h1>
-      <input type="text" name="" placeholder="Name...">
-      <input type="text" name="" placeholder="Email..."> <br>
-      <input type="text" name="" placeholder="Type your message">
+      <div class="col">
+                   <div class="img-title ">
+                       <form  id="submittion">
+                           <div class="form-row">
+                               <div class="col-6">
+                                   <input type="text" class="form-control" placeholder="First name" id="name">
+                               </div>
+                               <div class="col-6">
+                                   <input type="text" class="form-control" placeholder="Email" id="email"><br>
+                               </div>
+                               <div class="input-group">
+                                   <textarea class="form-control" id="message" type="text" aria-label="With textarea"
+                                       placeholder="Write your massage here"></textarea>
+                               </div>
+                           </div>
+                           
+                           <input class="btn" type="submit" placeholder="Submit">
+                       </form>
+                   </div>
+               </div>
+           </div>
 
     </div>
     <div class="social_icons">
@@ -135,7 +160,7 @@
   </footer>
       </div>
 
-
-
+<script src="js/jquery-3.4.1js"> </script>
+    <script src="js/scripts.js"> </script>
   </body>
 </html>
