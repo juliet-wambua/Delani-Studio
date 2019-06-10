@@ -2,7 +2,7 @@
 
 #### {Implementation of jquery and Bootstrap in Delani Studio Project }, {7th June 2019}
 
-#### By **{Juliet Wambua}**
+#### By **Juliet Wambua**
 
 ## Description
 This Application is to implement Bootstrap and j query functions to recreate a landing page for Delani Studio.
