@@ -1,12 +1,10 @@
 # DELANI STUDIO PROJECT
 
-#### Implementation on use jquery and Bootstrap in Delani Studio Project , 7th June 2019
-
-#### By **Juliet Wambua**
-
 ## Description
 This Application is to implement Bootstrap and j query functions to recreate a landing page for Delani Studio.
-Bootstrap is used to style the page while j query is used to make it more interactive.
+Bootstrap is used to style the page while j query is used to make it more interactive.https://juliet-wambua.github.io/Delani-Studio/
+
+#### By **Juliet Wambua**
 
 ## Setup/Installation Requirements
 * git clone https://juliet-wambua.github.io/Delani-Studio/
