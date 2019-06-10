@@ -1,6 +1,6 @@
 # DELANI STUDIO PROJECT
 
-#### {Implementation of jquery and Bootstrap in Delani Studio Project }, {7th June 2019}
+#### Implementation on use jquery and Bootstrap in Delani Studio Project , 7th June 2019
 
 #### By **Juliet Wambua**
 
