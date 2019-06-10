@@ -9,7 +9,7 @@ This Application is to implement Bootstrap and j query functions to recreate a l
 Bootstrap is used to style the page while j query is used to make it more interactive.
 
 ## Setup/Installation Requirements
-* git clone https://github.com/juliet-wambua/Delani-Studio
+* git clone https://juliet-wambua.github.io/Delani-Studio/
 * Change directory to Delani Studio
 * Open browser
 
