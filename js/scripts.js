@@ -33,9 +33,3 @@ $(document).ready(function(){
        }
        event.preventDefault();
       });
-
-    $(".portfolio").hover(function(){
-  $(this).css("background","pale-white");
-  }, function(){
-  $(this).css("none");
-});
