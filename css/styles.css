@@ -43,7 +43,7 @@ body{
 .clickable:hover {
         text-decoration: underline;
       }
-#design, #development, #product{
+.txt {
   display: none;
   font-family: 'Megrim', cursive;
 }
@@ -56,3 +56,15 @@ input[type="text"]{
 textarea[type="text"]{
   background: transparent;
 }
+.text-block{
+  display: none;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  height: 50%;
+  width: 50%;
+  color: gray;
+  border: 6px solid gray;
+}
+
